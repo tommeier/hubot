@@ -1,5 +1,7 @@
 [
 "redis-brain.coffee", "tweet.coffee", "shipit.coffee",
 "ascii.coffee", "directions.coffee", "isup.coffee",
-"likeaboss.coffee", "remind.coffee", "xkcd.coffee"
+"likeaboss.coffee", "remind.coffee", "xkcd.coffee",
+"meme_captain.coffee", "octocat.coffee", "quote.coffee",
+"whatis.coffee"
 ]
