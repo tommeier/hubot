@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n ferobot
+web: bin/hubot -a campfire -n fbot
