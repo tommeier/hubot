@@ -17,7 +17,10 @@
   "dependencies": {
     "hubot": "2.3.2",
     "hubot-scripts": ">= 2.1.0",
-    "optparse": "1.0.3"
+    "optparse": "1.0.3",
+    "xml2js": ">= 0.2.2",
+    "jsdom": ">= 0.2.19",
+    "underscore": ">= 1.4.2"
   },
 
   "engines": {
@@ -25,4 +28,5 @@
     "npm": "1.0.x"
   }
 }
+
 
