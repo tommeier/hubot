@@ -1,1 +1,1 @@
-app: bin/hubot -a campfire -n fbot
+web: bin/hubot -a campfire -n fbot
