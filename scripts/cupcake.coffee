@@ -6,4 +6,4 @@
 
 module.exports = (robot) ->
   robot.respond /(cupcake)( me)? (.*)/i, (msg) ->
-    msg.send "Don't even think about it. Have a carrot instead."
+    msg.send "Don't even think about it #{msg.message.user.name}. Have a carrot instead."
