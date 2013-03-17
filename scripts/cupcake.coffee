@@ -1,5 +1,5 @@
 # Description:
-#   A placeholder for ordering cupcakes.
+#   Ferocia - A placeholder for ordering cupcakes.
 #
 # Commands:
 #   hubot cupcake me - respond to cupcakes ordering
