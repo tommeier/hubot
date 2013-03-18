@@ -1,7 +1,9 @@
 #Custom scripts un-released
 
-*found in the `scripts` directory
 
+*found in the `src/scripts` directory
+
+* game_changer.coffee
 * cupcake.coffee
 
 #Dependencies note for package.json
