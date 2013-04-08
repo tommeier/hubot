@@ -21,6 +21,5 @@ module.exports = (robot) ->
 
   unless process.env.HUBOT_LESS_MANATEES
     robot.hear ///
-      (([A-Z]{3,}\s+)([A-Z]{3,})\s?)|
-      ([A-Z]{6,})
+      (([A-Z]{3,}\s+)([A-Z]{3,})\s?)
     ///, (msg) -> msg.send manatee()
