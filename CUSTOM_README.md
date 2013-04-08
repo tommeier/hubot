@@ -5,6 +5,7 @@
 
 * game_changer.coffee
 * cupcake.coffee
+* calm_down_manatee.coffee
 
 #Dependencies note for package.json
 //xml2js : Octocat.coffee
